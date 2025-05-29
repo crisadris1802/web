@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("https://wallpapers.com/images/hd/video-games-zoom-background-ux0skf8nbnx9xzen.jpg");
+    background-size: 100%;
+}
+
+.Titulo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px ;
+    text-align: center ;
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+}
+
+nav ul {
+    background-color: #ababab;
+    width: 5 0%;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 40px;
+    width: 150px;
+}
+
+nav li:hover {
+    background-color: #c6c3c2;
+}
+
+.contenido_1 {
+    background-color: white;
+    width: 5 0%;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.contenido_1 div {
+    padding: 70px;
+}
+
+.contenido_1 p {
+    font-family: Arial, Helvetica, sans-serifS;
+    text-align: justify;
+}
+
+.contenido_1 .imagen_centro{
+    padding: 3%;
+    margin: 0%;
+    margin-left: 4%;
+}
+
+.contenido_1 .imagen_centro2{
+    padding: 3%;
+    margin: 0%;
+    margin-left: 4%;
+}
+
+.contenido_1 .imagen_centro img{
+    width: auto;
+    height: auto;
+    padding-top: 0;
+    margin: 0;
+    align-items: center;
+}
+
+.contenido_1 .imagen_centro2 img{
+    width: 780px;
+    height: 300px;
+    margin-left: 50%;
+    padding-top: 0;
+    margin: 0;
+}
+
+.contenido_1 img {
+    width: 780px;
+    height: 370px;
+    margin-left: 8%;
+}
+
+.contenido_2 {
+    background-color: white;
+    width: 5 0%;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.contenido_2 div {
+    padding: 50px;
+}
+
+.contenido_2 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.contenido_2 p {
+    font-family: Arial, Helvetica, sans-serifS;
+    text-align: justify;
+}
+
+.contenido_2 iframe {
+    width: 800px;
+    height: 400px;
+    margin-left: 10%;
+}
